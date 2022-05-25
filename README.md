@@ -1,7 +1,4 @@
 - 👋 Hi, I’m Jammel
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning R, Python, SQL
-- 💞️ I’m looking to collaborate on data manipulation and quantitative finance projects
 - 📫 How to reach me: email jammelyeboah@gmail.com
 
 <!---
